@@ -69,4 +69,4 @@ jobs:
           echo "job level: $JOB_LEVEL_1"
           echo "job level: $JOB_LEVEL_2"
           echo "step level: $STEP_LEVEL_1"
-          echo "step level: $STEP_LEVEL_2"s
+          echo "step level: $STEP_LEVEL_2"
